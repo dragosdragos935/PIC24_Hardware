@@ -1,0 +1,186 @@
+V3 80
+FL "C:/Documents and Settings/Administrator/Desktop/pic24final/PIC24/ALU.vhd" 2024/08/30.20:05:40 J.40
+EN work/ALU 1725039377 \
+      FL "C:/Documents and Settings/Administrator/Desktop/pic24final/PIC24/ALU.vhd" \
+      PB ieee/std_logic_1164 1192821031 PB ieee/std_logic_arith 1192821032 \
+      PB ieee/STD_LOGIC_UNSIGNED 1192821033
+AR work/ALU/Behavioral 1725039378 \
+      FL "C:/Documents and Settings/Administrator/Desktop/pic24final/PIC24/ALU.vhd" \
+      EN work/ALU 1725039377
+FL "C:/Documents and Settings/Administrator/Desktop/pic24final/PIC24/ControlUnit.vhd" 2024/08/25.22:28:40 J.40
+EN work/ControlUnit 1725039379 \
+      FL "C:/Documents and Settings/Administrator/Desktop/pic24final/PIC24/ControlUnit.vhd" \
+      PB ieee/std_logic_1164 1192821031 PB ieee/std_logic_arith 1192821032 \
+      PB ieee/STD_LOGIC_UNSIGNED 1192821033
+AR work/ControlUnit/Behavioral 1725039380 \
+      FL "C:/Documents and Settings/Administrator/Desktop/pic24final/PIC24/ControlUnit.vhd" \
+      EN work/ControlUnit 1725039379
+FL "C:/Documents and Settings/Administrator/Desktop/pic24final/PIC24/DataMem.vhd" 2024/08/25.20:56:54 J.40
+EN work/DataMem 1725039381 \
+      FL "C:/Documents and Settings/Administrator/Desktop/pic24final/PIC24/DataMem.vhd" \
+      PB ieee/std_logic_1164 1192821031 PB ieee/std_logic_arith 1192821032 \
+      PB ieee/STD_LOGIC_UNSIGNED 1192821033
+AR work/DataMem/Behavioral 1725039382 \
+      FL "C:/Documents and Settings/Administrator/Desktop/pic24final/PIC24/DataMem.vhd" \
+      EN work/DataMem 1725039381
+FL "C:/Documents and Settings/Administrator/Desktop/pic24final/PIC24/File_Regs.vhd" 2024/08/25.20:52:00 J.40
+EN work/File_Regs 1725039383 \
+      FL "C:/Documents and Settings/Administrator/Desktop/pic24final/PIC24/File_Regs.vhd" \
+      PB ieee/std_logic_1164 1192821031 PB ieee/std_logic_arith 1192821032 \
+      PB ieee/STD_LOGIC_UNSIGNED 1192821033
+AR work/File_Regs/Behavioral 1725039384 \
+      FL "C:/Documents and Settings/Administrator/Desktop/pic24final/PIC24/File_Regs.vhd" \
+      EN work/File_Regs 1725039383
+FL "C:/Documents and Settings/Administrator/Desktop/pic24final/PIC24/MUX2V16.vhd" 2024/08/25.20:58:18 J.40
+EN work/MUX2V16 1725039387 \
+      FL "C:/Documents and Settings/Administrator/Desktop/pic24final/PIC24/MUX2V16.vhd" \
+      PB ieee/std_logic_1164 1192821031 PB ieee/std_logic_arith 1192821032 \
+      PB ieee/STD_LOGIC_UNSIGNED 1192821033
+AR work/MUX2V16/Behavioral 1725039388 \
+      FL "C:/Documents and Settings/Administrator/Desktop/pic24final/PIC24/MUX2V16.vhd" \
+      EN work/MUX2V16 1725039387
+FL "C:/Documents and Settings/Administrator/Desktop/pic24final/PIC24/MUX2V4.vhd" 2024/08/25.20:50:00 J.40
+EN work/MUX2V4 1725039385 \
+      FL "C:/Documents and Settings/Administrator/Desktop/pic24final/PIC24/MUX2V4.vhd" \
+      PB ieee/std_logic_1164 1192821031 PB ieee/std_logic_arith 1192821032 \
+      PB ieee/STD_LOGIC_UNSIGNED 1192821033
+AR work/MUX2V4/Behavioral 1725039386 \
+      FL "C:/Documents and Settings/Administrator/Desktop/pic24final/PIC24/MUX2V4.vhd" \
+      EN work/MUX2V4 1725039385
+FL "C:/Documents and Settings/Administrator/Desktop/pic24final/PIC24/PC_Update.vhd" 2024/08/25.20:43:50 J.40
+EN work/PC_Update 1725039389 \
+      FL "C:/Documents and Settings/Administrator/Desktop/pic24final/PIC24/PC_Update.vhd" \
+      PB ieee/std_logic_1164 1192821031 PB ieee/std_logic_arith 1192821032 \
+      PB ieee/STD_LOGIC_UNSIGNED 1192821033
+AR work/PC_Update/Behavioral 1725039390 \
+      FL "C:/Documents and Settings/Administrator/Desktop/pic24final/PIC24/PC_Update.vhd" \
+      EN work/PC_Update 1725039389
+FL "C:/Documents and Settings/Administrator/Desktop/pic24final/PIC24/PIC24.vhf" 2024/08/30.20:36:17 J.40
+EN work/PIC24 1725039395 \
+      FL "C:/Documents and Settings/Administrator/Desktop/pic24final/PIC24/PIC24.vhf" \
+      PB ieee/std_logic_1164 1192821031 PH ieee/NUMERIC_STD 1192821033 LB UNISIM \
+      PH unisim/VCOMPONENTS 1194566982
+AR work/PIC24/BEHAVIORAL 1725039396 \
+      FL "C:/Documents and Settings/Administrator/Desktop/pic24final/PIC24/PIC24.vhf" \
+      EN work/PIC24 1725039395 CP ALU CP ControlUnit CP DataMem CP File_Regs \
+      CP MUX2V4 CP MUX2V16 CP PC_Update CP ProgramCounter CP ROM32x24_FBCL
+FL "C:/Documents and Settings/Administrator/Desktop/pic24final/PIC24/ProgramCounter.vhd" 2024/08/25.20:46:58 J.40
+EN work/ProgramCounter 1725039391 \
+      FL "C:/Documents and Settings/Administrator/Desktop/pic24final/PIC24/ProgramCounter.vhd" \
+      PB ieee/std_logic_1164 1192821031 PB ieee/std_logic_arith 1192821032 \
+      PB ieee/STD_LOGIC_UNSIGNED 1192821033
+AR work/ProgramCounter/Behavioral 1725039392 \
+      FL "C:/Documents and Settings/Administrator/Desktop/pic24final/PIC24/ProgramCounter.vhd" \
+      EN work/ProgramCounter 1725039391
+FL "C:/Documents and Settings/Administrator/Desktop/pic24final/PIC24/ROM32x24.vhd" 2024/08/25.21:00:53 J.40
+EN work/ROM32x24 1725018255 \
+      FL "C:/Documents and Settings/Administrator/Desktop/pic24final/PIC24/ROM32x24.vhd" \
+      PB ieee/std_logic_1164 1192821031 PB ieee/std_logic_arith 1192821032 \
+      PB ieee/STD_LOGIC_UNSIGNED 1192821033
+AR work/ROM32x24/Behavioral 1725018256 \
+      FL "C:/Documents and Settings/Administrator/Desktop/pic24final/PIC24/ROM32x24.vhd" \
+      EN work/ROM32x24 1725018255
+FL "C:/Documents and Settings/Administrator/Desktop/pic24final/PIC24/ROM32x24_A.vhd" 2024/08/28.22:19:04 J.40
+EN work/ROM32x24_A 1725018310 \
+      FL "C:/Documents and Settings/Administrator/Desktop/pic24final/PIC24/ROM32x24_A.vhd" \
+      PB ieee/std_logic_1164 1192821031 PB ieee/std_logic_arith 1192821032 \
+      PB ieee/STD_LOGIC_UNSIGNED 1192821033
+AR work/ROM32x24_A/Behavioral 1725018311 \
+      FL "C:/Documents and Settings/Administrator/Desktop/pic24final/PIC24/ROM32x24_A.vhd" \
+      EN work/ROM32x24_A 1725018310
+FL "C:/Documents and Settings/Administrator/Desktop/pic24final/PIC24/ROM32x24_BRAC.vhd" 2024/08/25.22:11:14 J.40
+EN work/ROM32x24_BRAC 1725018305 \
+      FL "C:/Documents and Settings/Administrator/Desktop/pic24final/PIC24/ROM32x24_BRAC.vhd" \
+      PB ieee/std_logic_1164 1192821031 PB ieee/std_logic_arith 1192821032 \
+      PB ieee/STD_LOGIC_UNSIGNED 1192821033
+AR work/ROM32x24_BRAC/Behavioral 1725018306 \
+      FL "C:/Documents and Settings/Administrator/Desktop/pic24final/PIC24/ROM32x24_BRAC.vhd" \
+      EN work/ROM32x24_BRAC 1725018305
+FL "C:/Documents and Settings/Administrator/Desktop/pic24final/PIC24/ROM32x24_BRAN.vhd" 2024/08/25.22:10:35 J.40
+EN work/ROM32x24_BRAN 1725018299 \
+      FL "C:/Documents and Settings/Administrator/Desktop/pic24final/PIC24/ROM32x24_BRAN.vhd" \
+      PB ieee/std_logic_1164 1192821031 PB ieee/std_logic_arith 1192821032 \
+      PB ieee/STD_LOGIC_UNSIGNED 1192821033
+AR work/ROM32x24_BRAN/Behavioral 1725018300 \
+      FL "C:/Documents and Settings/Administrator/Desktop/pic24final/PIC24/ROM32x24_BRAN.vhd" \
+      EN work/ROM32x24_BRAN 1725018299
+FL "C:/Documents and Settings/Administrator/Desktop/pic24final/PIC24/ROM32x24_BRAOV.vhd" 2024/08/25.22:09:41 J.40
+EN work/ROM32x24_BRAOV 1725018293 \
+      FL "C:/Documents and Settings/Administrator/Desktop/pic24final/PIC24/ROM32x24_BRAOV.vhd" \
+      PB ieee/std_logic_1164 1192821031 PB ieee/std_logic_arith 1192821032 \
+      PB ieee/STD_LOGIC_UNSIGNED 1192821033
+AR work/ROM32x24_BRAOV/Behavioral 1725018294 \
+      FL "C:/Documents and Settings/Administrator/Desktop/pic24final/PIC24/ROM32x24_BRAOV.vhd" \
+      EN work/ROM32x24_BRAOV 1725018293
+FL "C:/Documents and Settings/Administrator/Desktop/pic24final/PIC24/ROM32x24_BRAZ.vhd" 2024/08/25.22:12:14 J.40
+EN work/ROM32x24_BRAZ 1725018289 \
+      FL "C:/Documents and Settings/Administrator/Desktop/pic24final/PIC24/ROM32x24_BRAZ.vhd" \
+      PB ieee/std_logic_1164 1192821031 PB ieee/std_logic_arith 1192821032 \
+      PB ieee/STD_LOGIC_UNSIGNED 1192821033
+AR work/ROM32x24_BRAZ/Behavioral 1725018290 \
+      FL "C:/Documents and Settings/Administrator/Desktop/pic24final/PIC24/ROM32x24_BRAZ.vhd" \
+      EN work/ROM32x24_BRAZ 1725018289
+FL "C:/Documents and Settings/Administrator/Desktop/pic24final/PIC24/ROM32x24_BTST.vhd" 2024/08/30.20:31:56 J.40
+EN work/ROM32x24_BTST 1725039178 \
+      FL "C:/Documents and Settings/Administrator/Desktop/pic24final/PIC24/ROM32x24_BTST.vhd" \
+      PB ieee/std_logic_1164 1192821031 PB ieee/std_logic_arith 1192821032 \
+      PB ieee/STD_LOGIC_UNSIGNED 1192821033
+AR work/ROM32x24_BTST/Behavioral 1725039179 \
+      FL "C:/Documents and Settings/Administrator/Desktop/pic24final/PIC24/ROM32x24_BTST.vhd" \
+      EN work/ROM32x24_BTST 1725039178
+FL "C:/Documents and Settings/Administrator/Desktop/pic24final/PIC24/ROM32x24_C.vhd" 2024/08/25.22:06:20 J.40
+EN work/ROM32x24_C 1724612796 \
+      FL "C:/Documents and Settings/Administrator/Desktop/pic24final/PIC24/ROM32x24_C.vhd" \
+      PB ieee/std_logic_1164 1192821031 PB ieee/std_logic_arith 1192821032 \
+      PB ieee/STD_LOGIC_UNSIGNED 1192821033
+AR work/ROM32x24_C/Behavioral 1724612797 \
+      FL "C:/Documents and Settings/Administrator/Desktop/pic24final/PIC24/ROM32x24_C.vhd" \
+      EN work/ROM32x24_C 1724612796
+FL "C:/Documents and Settings/Administrator/Desktop/pic24final/PIC24/ROM32x24_COM.vhd" 2024/08/28.22:48:12 J.40
+EN work/ROM32x24_COM 1725037370 \
+      FL "C:/Documents and Settings/Administrator/Desktop/pic24final/PIC24/ROM32x24_COM.vhd" \
+      PB ieee/std_logic_1164 1192821031 PB ieee/std_logic_arith 1192821032 \
+      PB ieee/STD_LOGIC_UNSIGNED 1192821033
+AR work/ROM32x24_COM/Behavioral 1725037371 \
+      FL "C:/Documents and Settings/Administrator/Desktop/pic24final/PIC24/ROM32x24_COM.vhd" \
+      EN work/ROM32x24_COM 1725037370
+FL "C:/Documents and Settings/Administrator/Desktop/pic24final/PIC24/ROM32x24_FBCL.vhd" 2024/08/28.21:28:48 J.40
+EN work/ROM32x24_FBCL 1725039393 \
+      FL "C:/Documents and Settings/Administrator/Desktop/pic24final/PIC24/ROM32x24_FBCL.vhd" \
+      PB ieee/std_logic_1164 1192821031 PB ieee/std_logic_arith 1192821032 \
+      PB ieee/STD_LOGIC_UNSIGNED 1192821033
+AR work/ROM32x24_FBCL/Behavioral 1725039394 \
+      FL "C:/Documents and Settings/Administrator/Desktop/pic24final/PIC24/ROM32x24_FBCL.vhd" \
+      EN work/ROM32x24_FBCL 1725039393
+FL "C:/Documents and Settings/Administrator/Desktop/pic24final/PIC24/ROM32x24_N.vhd" 2024/08/25.22:04:58 J.40
+EN work/ROM32x24_N 1725018275 \
+      FL "C:/Documents and Settings/Administrator/Desktop/pic24final/PIC24/ROM32x24_N.vhd" \
+      PB ieee/std_logic_1164 1192821031 PB ieee/std_logic_arith 1192821032 \
+      PB ieee/STD_LOGIC_UNSIGNED 1192821033
+AR work/ROM32x24_N/Behavioral 1725018276 \
+      FL "C:/Documents and Settings/Administrator/Desktop/pic24final/PIC24/ROM32x24_N.vhd" \
+      EN work/ROM32x24_N 1725018275
+FL "C:/Documents and Settings/Administrator/Desktop/pic24final/PIC24/ROM32x24_OV.vhd" 2024/08/25.22:07:24 J.40
+EN work/ROM32x24_OV 1725018271 \
+      FL "C:/Documents and Settings/Administrator/Desktop/pic24final/PIC24/ROM32x24_OV.vhd" \
+      PB ieee/std_logic_1164 1192821031 PB ieee/std_logic_arith 1192821032 \
+      PB ieee/STD_LOGIC_UNSIGNED 1192821033
+AR work/ROM32x24_OV/Behavioral 1725018272 \
+      FL "C:/Documents and Settings/Administrator/Desktop/pic24final/PIC24/ROM32x24_OV.vhd" \
+      EN work/ROM32x24_OV 1725018271
+FL "C:/Documents and Settings/Administrator/Desktop/pic24final/PIC24/ROM32x24_XOR.vhd" 2024/08/30.20:18:13 J.40
+EN work/ROM32x24_XOR 1725038506 \
+      FL "C:/Documents and Settings/Administrator/Desktop/pic24final/PIC24/ROM32x24_XOR.vhd" \
+      PB ieee/std_logic_1164 1192821031 PB ieee/std_logic_arith 1192821032 \
+      PB ieee/STD_LOGIC_UNSIGNED 1192821033
+AR work/ROM32x24_XOR/Behavioral 1725038507 \
+      FL "C:/Documents and Settings/Administrator/Desktop/pic24final/PIC24/ROM32x24_XOR.vhd" \
+      EN work/ROM32x24_XOR 1725038506
+FL "C:/Documents and Settings/Administrator/Desktop/pic24final/PIC24/ROM32x24_Z.vhd" 2024/08/25.22:08:49 J.40
+EN work/ROM32x24_Z 1725018260 \
+      FL "C:/Documents and Settings/Administrator/Desktop/pic24final/PIC24/ROM32x24_Z.vhd" \
+      PB ieee/std_logic_1164 1192821031 PB ieee/std_logic_arith 1192821032 \
+      PB ieee/STD_LOGIC_UNSIGNED 1192821033
+AR work/ROM32x24_Z/Behavioral 1725018261 \
+      FL "C:/Documents and Settings/Administrator/Desktop/pic24final/PIC24/ROM32x24_Z.vhd" \
+      EN work/ROM32x24_Z 1725018260

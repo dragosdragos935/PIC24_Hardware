@@ -1,0 +1,17 @@
+[Inputs]
+Clk
+N_EN
+OV_EN
+Z_EN
+C_EN
+=RdData1[15:0]=
+=RdData2[15:0]=
+=ALUOP[2:0]=
+=lit5[4:0]=
+[Outputs]
+N
+OV
+Z
+C
+=Y[15:0]=
+[BiDir]

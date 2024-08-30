@@ -1,0 +1,4 @@
+set -tmpdir "./xst/projnav.tmp"
+elaborate
+-ifn ROM32x24_FBCL.prj
+-ifmt mixed

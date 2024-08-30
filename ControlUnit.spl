@@ -1,0 +1,14 @@
+[Inputs]
+=OPCODE[4:0]=
+[Outputs]
+MemWr
+Mem2Reg
+RegWr
+DestSel
+Branch
+N_EN
+OV_EN
+Z_EN
+C_EN
+=ALUOP[2:0]=
+[BiDir]
